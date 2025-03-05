@@ -9,7 +9,7 @@ attack_in_progress = False
 current_attack = None  # Store details of the current attack
 attack_history = []  # Store attack logs
 
-TELEGRAM_BOT_TOKEN = '7738639967:AAHi9KN7g9eJYgqzpZQ_loC6j5ngezVbsss'  # Replace with your bot token
+TELEGRAM_BOT_TOKEN = '7718261626:AAG2AIDmhl6zWf0uZ6jexHAxTj3PZvmvcaM'  # Replace with your bot token
 ADMIN_USER_ID = 6312238286
 MONGO_URI = "mongodb+srv://pexoyo2390:Ninjamodz123123@ninjamodz.2b5cw.mongodb.net/?retryWrites=true&w=majority&appName=Ninjamodz"
 DB_NAME = "legxninja"
